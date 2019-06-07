@@ -1,12 +1,14 @@
-* {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-  }
-  
-.info h2{
+
+.wufoo .info h2{
     font-weight: 900;
     align-content: center;
     color: red;
+    font-style: unset;
     
 }
+
+
+/* testing testing hellorewgfgfrefvrefv rwqgfqvrqvaeragvervgaqecvfdsc dvsavdv
+vadsgvdefveadfvcd
+eavgedvefdvdvs
+efdsvfdav */
